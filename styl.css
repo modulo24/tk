@@ -1,0 +1,40 @@
+.contenedor {
+
+    background-color: #988f88;
+    padding: 25px;
+    margin: 25px;
+    text-align: justify;
+    line-height: 25px;
+    border-radius: 15px;
+}
+
+p {
+
+    text-decoration: #faefeb;
+    color: #faefeb;
+}
+
+h2 {
+
+    text-decoration: #000000;
+    color: #000000;
+}
+
+h1 {
+
+    text-decoration: #000000;
+    color: #000000;
+}
+
+
+body {
+
+    background-color: #30393e;
+    background-position: center center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+
+}
+
+
